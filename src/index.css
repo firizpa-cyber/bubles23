@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@import "@taiga-ui/core/styles/taiga-ui-theme.css";
+@import "@taiga-ui/core/styles/taiga-ui-fonts.css";
+@import "@taiga-ui/styles/taiga-ui-global.css";
+
+body {
+  margin: 0;
+  padding: 0;
+}
